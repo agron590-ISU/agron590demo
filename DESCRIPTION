@@ -6,7 +6,9 @@ Author: Ranae Dietzel
 Maintainer: Andee Kaplan <ajkaplan@iastate.edu>
 Description: Demonstration of using devtools to
     create my first package.
-License: GPL-3
+License: LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 5.0.1
+Imports:
+    ggplot2
